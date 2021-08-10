@@ -1,11 +1,10 @@
-# Prework
-# Pre-work - *Name of App Here*
+# Pre-work - Calculator
 
 **Name of your app** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: Joel Solomon
 
-Time spent: **X** hours spent in total
+Time spent:     15min
 
 ## User Stories
 
@@ -37,9 +36,10 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+The challenges encountered while building the app was it was difficult to find all the features of swift as it was my first program.
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Joel Solomon]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
